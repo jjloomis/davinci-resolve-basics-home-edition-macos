@@ -1,7 +1,7 @@
 # Checking if your computer meets minimum system requirements
 
 1. The minimum system requirements for running DaVinci Resolve are:
-   * Operating System: macOs 10.10.5 or later
+   * Operating System: macOs 10.13.6 or later
    * CPU: i5 or i7 processor
    * Memory: 8GB of RAM \(16GB recommended\)
    * Storage: Local storage only \(cloud storage will not work\), enough free space for videos, SSD hard drive \(recommended\)
