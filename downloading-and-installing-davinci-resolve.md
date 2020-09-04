@@ -8,6 +8,8 @@
 6. When the download is complete, double-click the DaVinci\_Resolve\_16.2.x.zip file in your Downloads folder. The folder will unzip to a DMG file. 
 7. Double-click the DaVinci\_Resolve\_16.2.x.dmg file in your Downloads folder.
 8. Double-click the Install Resolve 16.2.x icon. 
+9. Double-click the Install Resolve 16.2.x.pkg file in your Downloads folder.
+10. In the Install Resolve box, go through the steps to install DaVinci Resolve. 
 
 
 
