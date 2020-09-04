@@ -9,5 +9,4 @@
 ---
 
 * [Downloading and installing DaVinci Resolve](downloading-and-installing-davinci-resolve.md)
-* [Untitled](untitled-1.md)
 
