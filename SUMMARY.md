@@ -10,3 +10,7 @@
 
 * [Downloading and installing DaVinci Resolve](downloading-and-installing-davinci-resolve.md)
 
+## Setting up your project
+
+* [Untitled](setting-up-your-project/untitled.md)
+
