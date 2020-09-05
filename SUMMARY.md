@@ -22,4 +22,13 @@
 * [Downloading free music to your project folder](setting-up-your-project/downloading-free-music-to-your-project-folder.md)
 * [Previewing and renaming clips in Finder](setting-up-your-project/previewing-and-renaming-clips-in-finder.md)
 * [Opening Resolve](setting-up-your-project/opening-resolve.md)
+* [Creating a Premiere project](setting-up-your-project/creating-a-premiere-project.md)
+
+## Importing and logging clips
+
+* [Importing media files](importing-and-logging-clips/importing-media-files.md)
+* [Previewing clips in the Source viewer](importing-and-logging-clips/previewing-clips-in-the-source-viewer.md)
+* [Renaming clips in the Media Pool](importing-and-logging-clips/renaming-clips-in-the-media-pool.md)
+* [Logging your video](importing-and-logging-clips/logging-your-video.md)
+* [Writing a script](importing-and-logging-clips/writing-a-script.md)
 
