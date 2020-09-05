@@ -14,4 +14,12 @@
 
 * [Creating a project folder](setting-up-your-project/untitled.md)
 * [Copying media files from a Canon video camera into your project folder](setting-up-your-project/copying-media-files-from-a-canon-video-camera-into-your-project-folder.md)
+* [Copying media files from an iPad or iPhone into your project folder](setting-up-your-project/copying-media-files-from-an-ipad-or-iphone-into-your-project-folder.md)
+* [Copying media files from a video camera SD card into your project folder](setting-up-your-project/copying-media-files-from-a-video-camera-sd-card-into-your-project-folder.md)
+* [Copying media files from a still camera SD card into your project folder](setting-up-your-project/copying-media-files-from-a-still-camera-sd-card-into-your-project-folder.md)
+* [Copying WAV files from a Zoom H2n to your project folder](setting-up-your-project/copying-wav-files-from-a-zoom-h2n-to-your-project-folder.md)
+* [Downloading media files from YouTube to your project folder](setting-up-your-project/downloading-media-files-from-youtube-to-your-project-folder.md)
+* [Downloading free music to your project folder](setting-up-your-project/downloading-free-music-to-your-project-folder.md)
+* [Previewing and renaming clips in Finder](setting-up-your-project/previewing-and-renaming-clips-in-finder.md)
+* [Opening Resolve](setting-up-your-project/opening-resolve.md)
 

@@ -6,7 +6,7 @@ Before importing media files into Resolve, you'll need copy these files into you
 2. Turn the video camera on.
 3. On video camera, open the side panel.
 4. Press **Camera to Play** button.
-5. On the camera's touch screen, press Built-in Mem. \(Do not disconnect or turn off the camera without properly ejecting it from the Mac.\)
+5. On the camera's touch screen, press **Built-in Mem**. \(Do not disconnect or turn off the camera without properly ejecting it from the Mac.\)
 6. [Navigate to your project folder in a Finder window](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html). Then [open a second Finder window](https://jjloomis.gitbooks.io/file-and-folder-management/content/opening-multiple-finder-windows.html). Select Canon in the left pane of the Finder window.
 7. Copy AVCHD from the Canon Finder window into your project folder.
 8. After AVCHD has copied into your project folder, eject the video camera. Control-click the video camera icon on the Desktop and choose Eject.
