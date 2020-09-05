@@ -12,5 +12,6 @@
 
 ## Setting up your project
 
-* [Untitled](setting-up-your-project/untitled.md)
+* [Creating a project folder](setting-up-your-project/untitled.md)
+* [Copying media files from a Canon video camera into your project folder](setting-up-your-project/copying-media-files-from-a-canon-video-camera-into-your-project-folder.md)
 
