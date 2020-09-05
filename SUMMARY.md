@@ -31,4 +31,6 @@
 * [Renaming clips in the Media Pool](importing-and-logging-clips/renaming-clips-in-the-media-pool.md)
 * [Logging your video](importing-and-logging-clips/logging-your-video.md)
 * [Writing a script](importing-and-logging-clips/writing-a-script.md)
+* [Recording narration](importing-and-logging-clips/recording-narration.md)
+* [Adding In and Out points to a clip](importing-and-logging-clips/adding-in-and-out-points-to-a-clip.md)
 
