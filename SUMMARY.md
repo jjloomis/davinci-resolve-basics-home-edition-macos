@@ -54,3 +54,15 @@
 * [Adjusting the audio level of an individual clip](working-with-audio/adjusting-the-audio-level-of-an-individual-clip.md)
 * [Adjusting the audio level of all clips in a track](working-with-audio/adjusting-the-audio-level-of-all-clips-in-a-track.md)
 
+## Working with text and transitions
+
+* [Adding a lower third](working-with-text-and-transitions/adding-a-lower-third.md)
+* [Adding a text screen](working-with-text-and-transitions/adding-a-text-screen.md)
+* [Customizing titles and text](working-with-text-and-transitions/customizing-titles-and-text.md)
+* [Adding the Media Milwaukee End Screen to Your Sequence](working-with-text-and-transitions/adding-the-media-milwaukee-end-screen-to-your-sequence.md)
+* [Adding a cross dissolve](working-with-text-and-transitions/adding-a-cross-dissolve.md)
+
+## Troubleshooting
+
+* [Resolve is taking up entire screen](troubleshooting/resolve-is-taking-up-entire-screen.md)
+
