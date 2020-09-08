@@ -61,6 +61,7 @@
 * [Customizing titles and text](working-with-text-and-transitions/customizing-titles-and-text.md)
 * [Adding the Media Milwaukee End Screen to Your Sequence](working-with-text-and-transitions/adding-the-media-milwaukee-end-screen-to-your-sequence.md)
 * [Adding a cross dissolve](working-with-text-and-transitions/adding-a-cross-dissolve.md)
+* [Adding a dip to color dissolve](working-with-text-and-transitions/adding-a-dip-to-color-dissolve.md)
 
 ## Troubleshooting
 
